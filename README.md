@@ -1,4 +1,4 @@
-# RAPIDEXPLAIN – Card Guard
+# Card Guard
 
 ## About the Project
 RAPIDEXPLAIN is an AI-powered credit card fraud detection project developed for the Veritas AI International High School Hackathon 2026.
@@ -38,4 +38,4 @@ The model uses anonymized transaction features from its training dataset. Its pr
 
 ## Project Purpose
 
-The goal of RAPIDEXPLAIN is to demonstrate how machine learning can help identify potentially fraudulent credit card transactions through an accessible interactive application.
+The goal of Card Gaurd is to demonstrate how machine learning can help identify potentially fraudulent credit card transactions through an accessible interactive application.
