@@ -1,5 +1,8 @@
 # Card Guard
+## Project Repositories
 
+- **Frontend:** [Card Guard Frontend](https://github.com/jmunies30/rapidexplain-frontend)
+- **Backend and Model:** [Card Guard Backend](https://github.com/jmunies30/rapidexplain-backend)
 ## About the Project
 RAPIDEXPLAIN is an AI-powered credit card fraud detection project developed for the Veritas AI International High School Hackathon 2026.
 
