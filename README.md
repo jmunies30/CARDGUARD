@@ -1,9 +1,12 @@
 # Card Guard
+
 ## Project Repositories
 
 - **Frontend:** [Card Guard Frontend](https://github.com/jmunies30/rapidexplain-frontend)
 - **Backend and Model:** [Card Guard Backend](https://github.com/jmunies30/rapidexplain-backend)
+
 ## About the Project
+
 RAPIDEXPLAIN is an AI-powered credit card fraud detection project developed for the Veritas AI International High School Hackathon 2026.
 
 Card Guard provides an interactive interface for analyzing transactions and identifying potentially fraudulent activity using a trained machine learning model.
@@ -32,8 +35,12 @@ The application was tested by comparing predictions from the deployed applicatio
 
 ## Important Limitations
 
-The model uses anonymized transaction features from its training dataset. Its predictions should be treated as experimental and not as definitive determinations of fraud.
+Card Guard is strictly a prototype developed for educational and demonstration purposes. It is not a real-world financial product and should not be used to make actual financial decisions.
+
+The model uses anonymized transaction features from its training dataset. Its predictions are experimental and are not guaranteed to correctly identify fraudulent transactions.
+
+**Card Guard does not provide financial advice, and its predictions should not be treated as definitive determinations of fraud.**
 
 ## Project Purpose
 
-The goal of Card Gaurd is to demonstrate how machine learning can help identify potentially fraudulent credit card transactions through an accessible interactive application.
+The goal of Card Guard is to demonstrate how machine learning can help identify potentially fraudulent credit card transactions through an accessible, interactive application.
