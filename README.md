@@ -16,11 +16,6 @@ Card Guard provides an interactive interface for analyzing transactions and iden
 4. The model returns a prediction: **FRAUD** or **NOT FRAUD**.
 5. Card Guard displays the prediction to the user.
 
-## Project Repositories
-
-- **Frontend:** [RAPIDEXPLAIN Frontend](PASTE-YOUR-FRONTEND-REPOSITORY-LINK-HERE)
-- **Backend and Model:** [RAPIDEXPLAIN Backend](PASTE-YOUR-BACKEND-REPOSITORY-LINK-HERE)
-
 ## Technologies Used
 
 - Python
