@@ -2,8 +2,8 @@
 
 ## Project Repositories
 
-- **Frontend:** [Card Guard Frontend](https://github.com/jmunies30/rapidexplain-frontend)
-- **Backend and Model:** [Card Guard Backend](https://github.com/jmunies30/rapidexplain-backend)
+- **Frontend:** [Card Guard Frontend](https://github.com/jmunies30/cardguard-frontend)
+- **Backend and Model:** [Card Guard Backend](https://github.com/jmunies30/cardguard-backend)
 
 ## About the Project
 
